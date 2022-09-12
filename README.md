@@ -11,10 +11,10 @@ API que tiene como función informar sobre el rendimiento de las páginas (tanto
 
 Herramienta desarrollada por JetBrains, la cual es un entorno de desarrollo integrado para el desarrollo de programas informáticos.
 
-###GitHub
+### GitHub
 
 Herramienta de control de versiones que ayuda a rastrear y gestionar los cambios realizados en un archivo o conjunto de archivos.
 
-###Librería JFreeChart
+### Librería JFreeChart
 
 Marco software open source para el lenguaje de programación Java, el cual permite la creación de gráficos complejos de forma simple.
