@@ -7,6 +7,10 @@ Para el aplicativo creado se ha hecho uso de los siguientes elementos:
 
 API que tiene como función informar sobre el rendimiento de las páginas (tanto de dispositivos móviles como de ordenadores). En adición, ofrece oportunidades de mejoras y diagnósticos para la página (dichos análisis se han realizado en un periodo de los últimos 28 días).
 
+### API Wave
+
+API pública puesta a disposición por la WebAIM. Tiene como objetivo evaluar la accesibilidad de una página web, indicando el número de errores, alertas…
+
 ### IDE Intellij Idea
 
 Herramienta desarrollada por JetBrains, la cual es un entorno de desarrollo integrado para el desarrollo de programas informáticos.
