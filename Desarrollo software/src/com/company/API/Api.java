@@ -18,7 +18,9 @@ public class Api {
         String enlace;
 
         if (opcion == 1) {
-            enlace = "https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=";
+            //enlace = "https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=";
+            enlace = "https://www.googleapis.com/pagespeedonline/v5/runPagespeed?key=AIzaSyB47zNuSEr9c1mH1fpVtO5PkuyqM6JPRNg&url=";
+
         }
         else {
             //enlace = "https://wave.webaim.org/api/request?key=Xhmu3cYw2923&url=";
